@@ -1,1 +1,3 @@
-Teste de gitdir -a!
+Teste de git!!!
+
+O arquivo readme foi modificado...
